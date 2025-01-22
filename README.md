@@ -1,7 +1,7 @@
 <p align = 'center'>
-  <img
+<!--   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=IvanK17&theme=great-gatsby"
-  />
+  /> -->
   <br>
   <br>
   <img
